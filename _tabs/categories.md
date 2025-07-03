@@ -20,3 +20,18 @@ order: 1
 
 . Technical Freelancer: Remote( 2021- till date)
 
+## Certifications
+
+	Microsoft Security, Compliance, and Identity Fundamentals: SC900, Credential ID: 49F51F406D563D17, Certification number: E47588-N3B24F
+	Eduonix’s: Basic HTML & CSS (build a project)
+	Eldohub: Certification of Completion for building a functional website with Wix.
+
+## Skills
+	Networking: Cisco Packet Tracer, Routing & Switching, VLANS
+	Web Design and Graphic design: HTML, CSS, JavaScript, Canva
+	Cloud Computing: Microsoft Azure, AWS 
+	Tools: Draw.io, WordPress, Wix, Wireshark
+	Soft skills: Self-Leading, Teamwork and Collaboration, communication, Critical Thinking
+
+
+
