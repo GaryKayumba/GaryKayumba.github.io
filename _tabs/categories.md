@@ -3,6 +3,7 @@ title: Resume Outline
 layout: Resume Outline
 icon: fas fa-stream
 order: 1
+---
 ## Academic Background
 	High school: IT SALAMA, Lubumbashi, DRC (2008-2015): Congolese State Diploma with option in Electricity.
 	University: Baraton, Nandi, KENYA (2016-2021): BSc in Networks and Communication Systems
@@ -14,4 +15,3 @@ Work Experience:
 	Ranyack Technology (IT Technician and Shop Attendant): Eldoret, Kenya: June 2023-December 2024
 	Technical Freelancer: Remote( 2021- till date)
 
----
