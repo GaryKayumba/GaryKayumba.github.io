@@ -3,7 +3,7 @@ title: Resume Outline
 layout: Resume Outline
 icon: fas fa-stream
 order: 1
-##Academic Background
+## Academic Background
 	High school: IT SALAMA, Lubumbashi, DRC (2008-2015): Congolese State Diploma with option in Electricity.
 	University: Baraton, Nandi, KENYA (2016-2021): BSc in Networks and Communication Systems
 	Cyber Shujaa: Microsoft ADC Cybersecurity Skilling Program: Security Engineer Track.
