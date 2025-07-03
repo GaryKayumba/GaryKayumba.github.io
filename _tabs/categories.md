@@ -1,6 +1,6 @@
 ---
 title: Resume Outline
-layout: categories
+layout: Resume Outline
 icon: fas fa-stream
 order: 1
 ---
