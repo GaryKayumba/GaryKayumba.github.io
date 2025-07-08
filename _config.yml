@@ -26,15 +26,15 @@ description: >- # used by seo meta and the atom feed
 url: https://GaryKayumba.github.io
 
 github:
-  username: GaryKayumba# change to your GitHub username
+  username: Gary Kayumba# change to your GitHub username
 
 twitter:
-  username: @Gary_kayumba # change to your Twitter username
+  username: "@Gary_kayumba" # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Gary Kayumba Pungu
   email: kayumbagaga@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
