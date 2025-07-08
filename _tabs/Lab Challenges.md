@@ -28,6 +28,7 @@ I followed 4 tasks as follows:
 # Tools used
 
 	Microsoft Azure Portal
+
 	Azure Template
 
 # Screenshots
@@ -36,12 +37,15 @@ I followed 4 tasks as follows:
 
 
 ![image](https://github.com/user-attachments/assets/9a8dbe78-7c23-429b-9228-e9fae806c16d)
+Image source:labondemand.com
 
 # Task 2: Creating a virtual network and subnets using a template
 
 ![image](https://github.com/user-attachments/assets/fa6beda9-32aa-4279-a55a-700daa24716a)
+Image source:labondemand.com
 
  ![image](https://github.com/user-attachments/assets/03335d58-0573-4042-a5d8-0ee3af931434)
+ Image source:labondemand.com
 
 # Key lessons learned
 
@@ -84,22 +88,28 @@ I solved this lab through tasks as follows:
 
 Task 1: Creating a Virtual Machine in a Virtual Network
 ![image](https://github.com/user-attachments/assets/ddee6e29-83f2-48d4-8f1b-051a9c573c97)
+Image source: labondemand.com
 
 Task 2: Creating a virtual machine in a different virtual network
 ![image](https://github.com/user-attachments/assets/9e2a6de2-43db-4296-b818-a1fadd7206a4)
+Image source: labondemand.com
 
 Task 3: Using Network Watcher to test the Connection between Virtual Machines
 ![image](https://github.com/user-attachments/assets/b940e2fd-f987-4ae1-a510-e75c70692fba)
+Image source: labondemand.com
 
 Task 4: Configuring Virtual Network peerings between different Virtual Machines
 ![image](https://github.com/user-attachments/assets/f374c12d-4f94-4d1b-9a88-b7ea5e2c127d)
+Image source: labondemand.com
 
 
 Task 5: Using Azure PowerShell to test the Connection between the virtual Machine
 ![image](https://github.com/user-attachments/assets/d658492e-26a9-426d-aa4e-9f461b5fa143)
+Image source: labondemand.com
 
 Task 6: Creating a Custom Route
 ![image](https://github.com/user-attachments/assets/1e72aee4-137b-4614-94a0-accb9faee0d1)
+Image source: labondemand.com
 
 
 # Key lessons learned
@@ -115,6 +125,7 @@ After graduating with a degree in IT/cybersecurity, you've been applying for tec
 The interviewer warmly explains the test format: you will diagnose and resolve connectivity issues for a fictional company's network within a set time. The task has two sections: Section A (Yellow) for troubleshooting and Section B (Green) for configuration. Start with Section B, using the network addresses shown in the provided topology (with a Packet Tracer file)
 
 ![image](https://github.com/user-attachments/assets/9992e3fb-3f6d-440f-a9af-6bf368f8e414)
+Image source: Personal Collection
 
 # Simulation Guidelines:
 
@@ -136,6 +147,7 @@ The interviewer warmly explains the test format: you will diagnose and resolve c
 **- Identify and fix configuration issues in the section. Document the errors and solutions in a table.**
 
 **Testing After Troubleshooting:**
+
 1. Verify that the Green and Yellow sections function as one network with accessibility across all devices.
 2. Ensure PCs in the network **192.168.20.0** receive IP configuration from the DHCP server in Green Section B.
 
@@ -166,31 +178,40 @@ I handled this project by tackling Section B (Green). The tasks were as follows:
 
 **Task 1: Use the routing protocol specified in the network topology. (OSPF)**
 ![image](https://github.com/user-attachments/assets/bbbda626-9871-420f-b4f5-64b2b7aa393f)
+Image source: Personal Collection
 
 **Task 2: Rename routers according to the topology and add your initials (e.g., JulyKK)**
 ![image](https://github.com/user-attachments/assets/da6c61b1-b4ac-4947-bcfd-948b35f49e6f)
+Image source: Personal Collection
 
 **Task 3: Choose any valid IP address for individual device configuration.**
 ![image](https://github.com/user-attachments/assets/fb9ef42f-f871-4f6d-a5e7-2dcb776cad64)
+Image source: Personal Collection
 
 **Task 4: Set up router IDs as shown in the topology.**
 ![image](https://github.com/user-attachments/assets/60255007-8d8c-4a78-b70d-c2add495ae4d)
+Image source: Personal Collection
 
 **Task 5: For the router connected to the laptop, configure SSH access using a domain (e.g., kk.com). Create a user with the username Cisco1KK and password Class1, alongside a secret password Class2025. Verify login from the laptop.**
 ![image](https://github.com/user-attachments/assets/5badb9a6-5dbf-4920-8464-38c9757c2569)
+Image source: Personal Collection
 
 **Task 6: Set up a DHCP server to provide IP configuration for the network 192.168.20.0/24, and set up a DNS server with the URL www.June.com(218.80.80.2/24).**
 ![image](https://github.com/user-attachments/assets/7263b903-f321-49b8-88bf-846c6d8fe6f6)
+Image source: Personal Collection
 
 **Task 7: Ensure all devices can ping each other in the Green Area before troubleshooting.**
 ![image](https://github.com/user-attachments/assets/45d8dad2-33dc-46c5-bbdf-9d324a5e42be)
+Image source: Personal Collection
 
 **Task 8: Testing After Troubleshooting
 Verify that the Green and Yellow sections function as one network with accessibility across all devices.**
 ![image](https://github.com/user-attachments/assets/de79e611-2ebd-4593-bf52-fc65cf9d5b67)
+Image source: Personal Collection
 
 Ensure PCs in the network **192.168.20.0** receive IP configuration from the DHCP server in Green Section B
 ![image](https://github.com/user-attachments/assets/daa764c6-e745-4447-87b5-b8dcbe768890)
+Image source: Personal Collection
 
 
 
