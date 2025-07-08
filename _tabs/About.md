@@ -4,6 +4,6 @@ icon: fas fa-file-alt
 order: 1
 ---
 
-# Who am I? 
+# Who am I?
 
-Hi there, I am Kayumba Gary Pungu, a Cloud Security Engineer.
+Hello there! I'm Kayumba Gary Pungu, a passionate Cloud Security Engineer dedicated to safeguarding our digital world. Excited to explore innovative solutions and tackle the challenges of cloud security!
