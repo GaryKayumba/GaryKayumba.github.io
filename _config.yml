@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: https://GaryKayumba.github.io
 
 github:
-  username: GaryKayumba# change to your GitHub username
+  username: GaryKayumba
 
 twitter:
-  username: "@Gary_kayumba" # change to your Twitter username
+  username: "@Gary_kayumba" 
 
 social:
   # Change to your full name.
@@ -38,8 +38,8 @@ social:
   email: kayumbagaga@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Gary_Kayumba # change to your Twitter homepage
-    - https://github.com/GaryKayumba# change to your GitHub homepage
+    - https://twitter.com/Gary_Kayumba 
+    - https://github.com/GaryKayumba
     # Uncomment below to add more social links
     - https://www.facebook.com/GaryKay
     - https://www.linkedin.com/in/gary-kayumba
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: true
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
