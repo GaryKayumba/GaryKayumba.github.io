@@ -5,7 +5,7 @@ order: 5
 ---
 
 **# Let's work together**
-# Social: https://linkedin.com.in/gary-kayumba
+# Social: www.linkedin.com/in/gary-kayumba
 # email: kayumbagaga@gmail.com
 # Website: https://garykayumba.github.io
 # Tel: +254720828353
