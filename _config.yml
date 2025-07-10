@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Gary Kayumba# the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Welcome to my Portfolio # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -41,8 +41,8 @@ social:
     - https://twitter.com/Gary_Kayumba # change to your Twitter homepage
     - https://github.com/GaryKayumba# change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/GaryKay
-     - https://www.linkedin.com/in/gary-kayumba
+    - https://www.facebook.com/GaryKay
+    - https://www.linkedin.com/in/gary-kayumba
 
 # Site Verification Settings
 webmaster_verifications:
