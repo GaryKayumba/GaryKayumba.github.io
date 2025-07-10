@@ -4,8 +4,8 @@ icon: fas fa-file-alt
 order: 5
 ---
 
-# Let's work together
-# Social: linkedin.com.in/gary-kayumba
+**# Let's work together**
+# Social: https://linkedin.com.in/gary-kayumba
 # email: kayumbagaga@gmail.com
-# Website: https://github.com/GaryKayumba
+# Website: https://garykayumba.github.io
 # Tel: +254720828353
