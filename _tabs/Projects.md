@@ -13,7 +13,7 @@ Image source: Microsoft learning GitHub
 
 
 
-# Project 2: Implement Web Apps
+# Project 2: Implement Intersite Connectivity
 
 This lab focuses on communication between virtual networks. It implements virtual network peering and tests connections. Additionally, a custom route has been added. For this lab, an Azure subscription in the East US region is required.
 ![image](https://github.com/user-attachments/assets/c6a6d7bf-84c5-4ad4-9b07-6f428e432d9b)
